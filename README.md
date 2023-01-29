@@ -1,8 +1,7 @@
-# S2-python
+# S2-python : Les notebooks + les projets 
 
-## Les notebooks + les projets 
 
-# Environnement de programmation**
+# Environnement de programmation
 ---
 
 * On utilise le même environnement que pour IN100 (voir le [manuel d'installation](https://github.com/uvsq-info/l1-python/blob/master/INSTALL.md))
