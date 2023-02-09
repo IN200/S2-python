@@ -35,7 +35,7 @@
     * utilisation d'outils adaptés: visio, forum, chat... par exemple discord est adapté pour tout ça, et git bien sûr
 * les enseignants sont là pour vous aider, encore faut-il les contacter, et pas (que) au dernier moment
 
-# Evaluation (à titre indicatif)**
+# Evaluation (à titre indicatif)
 
 ---
 * 3 évaluations en TD:
@@ -54,11 +54,5 @@
     * un responsable de la qualité du code: vérifier que les règles de style sont bien respectées, ainsi que les bonnes pratiques de programmation (nommage des fonctions et variables, docstring dans les fonctions, etc.)
 
 ## faire au cours du premier TD
-* affecter les étudiants aux groupes de projet, de manière à avoir 8 groupes (entre 3 et 4 étudiants par groupe):
-    * créer des groupes de niveau équivalent
-    * à partir du fichier de notes du premier semestre que je vous enverrai dès que j'ai les listes des étudiants par groupe de TD
-* vérifier que vous avez accès à l'espace E-CAMPUS du cours
-    * je vous donnerai accès à un espace par groupe pour que vous puissiez communiquer directement avec les étudiants de votre groupe
-* pour le premier TD:
-    * constituer les groupes
-    * vérifier les installations de l'environnement / usage du cartable numérique
+* Constitution des groupes par l'enseignant
+* Vérifier les installations de l'environnement / usage du cartable numérique
