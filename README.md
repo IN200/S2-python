@@ -35,6 +35,17 @@
     * utilisation d'outils adaptés: visio, forum, chat... par exemple discord est adapté pour tout ça, et git bien sûr
 * les enseignants sont là pour vous aider, encore faut-il les contacter, et pas (que) au dernier moment
 
+# Evaluation (à titre indicatif)**
+
+---
+* 3 évaluations en TD:
+    * mini-contrôle la 2ème séance (15 minutes max). Evaluation sur 5
+    * TD 4, évaluation sur 5 (prise en main du projet)
+    * soutenance de projet
+* Un QCM au dernier créneau de cours
+* 4 notes au total, pondération: mini-contrôle = 1, projet-prise en main=1; projet = 3, contrôle = 3
+* le niveau d'exigence sera plus élevé que celui du cours IN100
+
 
 # Les projets
 
@@ -42,3 +53,12 @@
     * un responsable GitHub: c'est lui qui hébergera le projet sur son compte GitHub et invitera les autres membres; il vérifiera, entre autres, que les commits qui sont poussés sont bien fonctionnels, et qu'ils ne contiennent que des sources du projet
     * un responsable de la qualité du code: vérifier que les règles de style sont bien respectées, ainsi que les bonnes pratiques de programmation (nommage des fonctions et variables, docstring dans les fonctions, etc.)
 
+## faire au cours du premier TD
+* affecter les étudiants aux groupes de projet, de manière à avoir 8 groupes (entre 3 et 4 étudiants par groupe):
+    * créer des groupes de niveau équivalent
+    * à partir du fichier de notes du premier semestre que je vous enverrai dès que j'ai les listes des étudiants par groupe de TD
+* vérifier que vous avez accès à l'espace E-CAMPUS du cours
+    * je vous donnerai accès à un espace par groupe pour que vous puissiez communiquer directement avec les étudiants de votre groupe
+* pour le premier TD:
+    * constituer les groupes
+    * vérifier les installations de l'environnement / usage du cartable numérique
