@@ -3,9 +3,9 @@
 # Le planning prévisionnel 
  * Semaine 6 février : **Cours 1**,  
  * Semaine du 13 février, **cours 2**, **TD 1** (avec enseignant)
- * Semaine du 20 février, **cours 3**,  **TD 2**. (avec enseignant) mini contrôle de 15 minutes.
+ * Semaine du 20 février, **cours 3**,  **TD 2**. (avec enseignant) 
  * Semaine du 27 : les vacances 
- * Semaine du 6 mars, pas de cours, **TD 3**  (avec enseignant)
+ * Semaine du 6 mars, pas de cours, **TD 3**  (avec enseignant) mini contrôle de 15 minutes.
  * La semaine 13 mars, **cours 4**, TD. sans enseignant (pour travailler sur les projets en autonomie ) 
  * La semaine du 20 mars, pas de cours, **TD 4**  (avec enseignant) la première note du projet 
  * La semaine du 27 mars, **cours 5**,  TD. sans enseignant (pour travailler sur les projets en autonomie ) 
