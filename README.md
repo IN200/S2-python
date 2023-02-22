@@ -12,6 +12,33 @@
  * La semaine du 3 avril, pas de cours,  TD. sans enseignant (pour travailler sur les projets en autonomie ) 
  * La semaine du 10 avril, **cours 6** (contrôle)
  * La semaine du 17 avril, **TD5**   (avec enseignant)
+ 
+ 
+ # Les projets
+
+* dans chaque groupe, il faudra désigner 
+    * un responsable GitHub: c'est lui qui hébergera le projet sur son compte GitHub et invitera les autres membres; il vérifiera, entre autres, que les commits qui sont poussés sont bien fonctionnels, et qu'ils ne contiennent que des sources du projet
+    * un responsable de la qualité du code: vérifier que les règles de style sont bien respectées, ainsi que les bonnes pratiques de programmation (nommage des fonctions et variables, docstring dans les fonctions, etc.)
+
+# Consignes pour le projet 
+ Dans le fichier README doivent apparaître les informations suivantes: le groupe de TD (filière et numéro), les noms de tous les étudiants du groupe de projet, l'url de dépôt du projet sur github; et un fichier README doit documenter l'utilisation du programme.
+
+* Une note sera donnée à la suite de la soutenance;  cette note comprendra une partie collective et une partie individuelle qui tiendra compte des réponses aux questions et de la contribution de chacun, ainsi qu'aux apports de chacun au projet;
+
+* La note finale tiendra également compte de la qualité du code et du respect des consignes.
+
+* Les règles de programmation sont :
+
+	* le projet doit être écrit dans un seul fichier
+	* il ne faut pas utiliser de classes d'objets
+	* il faut utiliser la librairie tkinter pour l'interface graphique
+
+**Dernières remarques** 
+* le programme que vous fournirez doit impérativement s'exécuter sans erreurs. Ainsi, il convient de le tester et de le corriger progressivement. 
+ les parties du programme qui ne fonctionnent pas peuvent être laissées en commentaires pour montrer le travail réalisé sans nuire à son exécution;
+* vos chargés de TD sont là pour vous aider donc n'hésitez pas à les contacter, et à n'hésitez pas non plus à prendre des initiatives par rapport au sujet;
+* si vous êtes amenés à copier une partie de code d'un autre groupe ou bien d'une source sur internet, cela doit être mentionné explicitement en commentaire de la partie concernée. **Tout plagiat qui n'est pas cité** sera sanctionné par la note 0 (pour détecter le plagiat nous utilisons des logiciels qui testent la similarité de code; noter que le changement du nom des objets ne dupe pas ces logiciels).
+    
     
 # Environnement de programmation
 ---
@@ -46,32 +73,6 @@
 * 4 notes au total, pondération: mini-contrôle = 1, projet-prise en main=1; projet = 3, contrôle = 3
 * le niveau d'exigence sera plus élevé que celui du cours IN100
 
-
-# Les projets
-
-* dans chaque groupe, il faudra désigner 
-    * un responsable GitHub: c'est lui qui hébergera le projet sur son compte GitHub et invitera les autres membres; il vérifiera, entre autres, que les commits qui sont poussés sont bien fonctionnels, et qu'ils ne contiennent que des sources du projet
-    * un responsable de la qualité du code: vérifier que les règles de style sont bien respectées, ainsi que les bonnes pratiques de programmation (nommage des fonctions et variables, docstring dans les fonctions, etc.)
-
-# Consignes pour le projet 
- Dans le fichier README doivent apparaître les informations suivantes: le groupe de TD (filière et numéro), les noms de tous les étudiants du groupe de projet, l'url de dépôt du projet sur github; et un fichier README doit documenter l'utilisation du programme.
-
-* Une note sera donnée à la suite de la soutenance;  cette note comprendra une partie collective et une partie individuelle qui tiendra compte des réponses aux questions et de la contribution de chacun, ainsi qu'aux apports de chacun au projet;
-
-* La note finale tiendra également compte de la qualité du code et du respect des consignes.
-
-* Les règles de programmation sont :
-
-	* le projet doit être écrit dans un seul fichier
-	* il ne faut pas utiliser de classes d'objets
-	* il faut utiliser la librairie tkinter pour l'interface graphique
-
-**Dernières remarques** 
-* le programme que vous fournirez doit impérativement s'exécuter sans erreurs. Ainsi, il convient de le tester et de le corriger progressivement. 
- les parties du programme qui ne fonctionnent pas peuvent être laissées en commentaires pour montrer le travail réalisé sans nuire à son exécution;
-* vos chargés de TD sont là pour vous aider donc n'hésitez pas à les contacter, et à n'hésitez pas non plus à prendre des initiatives par rapport au sujet;
-* si vous êtes amenés à copier une partie de code d'un autre groupe ou bien d'une source sur internet, cela doit être mentionné explicitement en commentaire de la partie concernée. **Tout plagiat qui n'est pas cité** sera sanctionné par la note 0 (pour détecter le plagiat nous utilisons des logiciels qui testent la similarité de code; noter que le changement du nom des objets ne dupe pas ces logiciels).
-    
 
 ## faire au cours du premier TD
 * Constitution des groupes par l'enseignant
