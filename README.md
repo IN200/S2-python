@@ -54,11 +54,11 @@
     * un responsable de la qualité du code: vérifier que les règles de style sont bien respectées, ainsi que les bonnes pratiques de programmation (nommage des fonctions et variables, docstring dans les fonctions, etc.)
 
 # Consignes pour le projet 
- Dans le fichier README doivent apparaître les informations suivantes: le groupe de TD (filière et numéro), les noms de tous les étudiants du groupe de projet, l'url de dépôt du projet sur github;et un fichier README doit documenter l'utilisation du programme.
+ Dans le fichier README doivent apparaître les informations suivantes: le groupe de TD (filière et numéro), les noms de tous les étudiants du groupe de projet, l'url de dépôt du projet sur github; et un fichier README doit documenter l'utilisation du programme.
 
 * Une note sera donnée à la suite de la soutenance;  cette note comprendra une partie collective et une partie individuelle qui tiendra compte des réponses aux questions et de la contribution de chacun, ainsi qu'aux apports de chacun au projet;
 
-* la note finale tiendra également compte de la qualité du code et du respect des consignes.
+* La note finale tiendra également compte de la qualité du code et du respect des consignes.
 
 * Les règles de programmation sont :
 
