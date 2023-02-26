@@ -1,0 +1,21 @@
+{
+   "nom cours" : "BDP",
+   "theme" : "Algorithmique",
+   "etudiants" : [
+              {
+               "nom" : "Martin",
+               "prenom" : "Jean",
+               "Dept" : "95" 
+                },
+                {
+                "nom" : "Mohamed",
+                "prenom" : "Ali",
+                "Dept" : "93" 
+                },
+                {
+                  "nom" : "Lina",
+                  "prenom" : "Bertrand",
+                  "Dept" : "95" 
+                }
+              ]
+}
