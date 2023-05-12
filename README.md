@@ -70,7 +70,7 @@
     * TD 4, évaluation sur 5 (prise en main du projet)
     * soutenance de projet
 * Un QCM au dernier créneau de cours
-* Rectification : 4 notes au total, pondération: mini-contrôle = 2.5, projet-prise en main=1; soutenance projet = 2, contrôle = 3
+* Rectification : 4 notes au total, pondération: mini-contrôle = 2, projet-prise en main=1; soutenance projet = 3, contrôle = 3
 * le niveau d'exigence sera plus élevé que celui du cours IN100
 
 
