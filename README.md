@@ -15,7 +15,7 @@
  
 ----
 * 6 CM :
-    * 0_Rappel_tableaux
+    * 0_Rappel_tableaux (complexité)
     * 2_gui (TK)
     * 1_Dictionnaires
     * 3_FichiersTexte
