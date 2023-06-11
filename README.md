@@ -13,7 +13,14 @@
  * La semaine du 10 avril, **cours 6** (contrôle)
  * La semaine du 17 avril, **TD5**   (avec enseignant)
  
- 
+----
+* 6 CM :
+    * 0_Rappel_tableaux
+    * 2_gui (TK)
+    * 1_Dictionnaires
+    * 3_FichiersTexte
+    * 4 Modularité
+    * 5-Contrôle
  # Les projets
 
 * dans chaque groupe, il faudra désigner 
