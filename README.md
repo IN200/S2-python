@@ -1,18 +1,7 @@
 # S2-python : Les notebooks + les projets 
 
 # Le planning prévisionnel 
- * Semaine 6 février : **Cours 1**,  
- * Semaine du 13 février, **cours 2**, **TD 1** (avec enseignant)
- * Semaine du 20 février, **cours 3**,  **TD 2**. (avec enseignant) 
- * Semaine du 27 : les vacances 
- * Semaine du 6 mars, pas de cours, **TD 3**  (avec enseignant) mini contrôle de 15 minutes.
- * La semaine 13 mars, **cours 4**, TD. sans enseignant (pour travailler sur les projets en autonomie ) 
- * La semaine du 20 mars, pas de cours, **TD 4**  (avec enseignant) la première note du projet 
- * La semaine du 27 mars, **cours 5**,  TD. sans enseignant (pour travailler sur les projets en autonomie ) 
- * La semaine du 3 avril, pas de cours,  TD. sans enseignant (pour travailler sur les projets en autonomie ) 
- * La semaine du 10 avril, **cours 6** (contrôle)
- * La semaine du 17 avril, **TD5**   (avec enseignant)
- 
+ A venir...
  
  # Les projets
 
@@ -37,7 +26,7 @@
 * le programme que vous fournirez doit impérativement s'exécuter sans erreurs. Ainsi, il convient de le tester et de le corriger progressivement. 
  les parties du programme qui ne fonctionnent pas peuvent être laissées en commentaires pour montrer le travail réalisé sans nuire à son exécution;
 * vos chargés de TD sont là pour vous aider donc n'hésitez pas à les contacter, et à n'hésitez pas non plus à prendre des initiatives par rapport au sujet;
-* si vous êtes amenés à copier une partie de code d'un autre groupe ou bien d'une source sur internet, cela doit être mentionné explicitement en commentaire de la partie concernée. **Tout plagiat qui n'est pas cité** sera sanctionné par la note 0 (pour détecter le plagiat nous utilisons des logiciels qui testent la similarité de code; noter que le changement du nom des objets ne dupe pas ces logiciels).
+* si vous êtes amenés à copier une partie de code d'un autre groupe ou bien d'une source sur internet, cela doit être mentionné explicitement en commentaire de la partie concernée. **Tout plagiat ou référence qui n'est pas citée** sera sanctionné par la note 0 (pour détecter le plagiat nous utilisons des logiciels qui testent la similarité de code; noter que le changement du nom des objets ne dupe pas ces logiciels).
     
     
 # Environnement de programmation
@@ -66,11 +55,11 @@
 
 ---
 * 3 évaluations en TD:
-    * mini-contrôle la 2ème séance (15 minutes max). Evaluation sur 5
-    * TD 4, évaluation sur 5 (prise en main du projet)
+    * mini-contrôle (15 minutes max). Evaluation sur 5
+    * évaluation sur 5 (prise en main du projet)
     * soutenance de projet
 * Un QCM au dernier créneau de cours
-* 4 notes au total, pondération: mini-contrôle = 1, projet-prise en main=1; projet = 3, contrôle = 3
+* 4 notes au total, pondération: mini-contrôle = 1.5, projet-prise en main=1; projet = 2.5, contrôle = 3
 * le niveau d'exigence sera plus élevé que celui du cours IN100
 
 
