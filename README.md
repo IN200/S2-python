@@ -1,8 +1,31 @@
 # S2-python : Les notebooks + les projets 
 
 # Le planning prévisionnel 
+<<<<<<< HEAD
  A venir...
  
+=======
+ * Semaine 6 février : **Cours 1**,  
+ * Semaine du 13 février, **cours 2**, **TD 1** (avec enseignant)
+ * Semaine du 20 février, **cours 3**,  **TD 2**. (avec enseignant) 
+ * Semaine du 27 : les vacances 
+ * Semaine du 6 mars, pas de cours, **TD 3**  (avec enseignant) mini contrôle de 15 minutes.
+ * La semaine 13 mars, **cours 4**, TD. sans enseignant (pour travailler sur les projets en autonomie ) 
+ * La semaine du 20 mars, pas de cours, **TD 4**  (avec enseignant) la première note du projet 
+ * La semaine du 27 mars, **cours 5**,  TD. sans enseignant (pour travailler sur les projets en autonomie ) 
+ * La semaine du 3 avril, pas de cours,  TD. sans enseignant (pour travailler sur les projets en autonomie ) 
+ * La semaine du 10 avril, **cours 6** (contrôle)
+ * La semaine du 17 avril, **TD5**   (avec enseignant)
+ 
+----
+* 6 CM :
+    * 0_Rappel_tableaux (complexité)
+    * 2_gui (TK)
+    * 1_Dictionnaires
+    * 3_FichiersTexte
+    * 4 Modularité
+    * 5-Contrôle
+>>>>>>> b2e80909c34c71f66696c04abb65e9dae8bb27c8
  # Les projets
 
 * dans chaque groupe, il faudra désigner 
@@ -59,7 +82,11 @@
     * évaluation sur 5 (prise en main du projet)
     * soutenance de projet
 * Un QCM au dernier créneau de cours
+<<<<<<< HEAD
 * 4 notes au total, pondération: mini-contrôle = 1.5, projet-prise en main=1; projet = 2.5, contrôle = 3
+=======
+* Rectification : 4 notes au total, pondération: mini-contrôle = 2, projet-prise en main=1; soutenance projet = 3, contrôle = 3
+>>>>>>> b2e80909c34c71f66696c04abb65e9dae8bb27c8
 * le niveau d'exigence sera plus élevé que celui du cours IN100
 
 
