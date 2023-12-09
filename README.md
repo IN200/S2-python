@@ -14,7 +14,7 @@
     * 4 Modularité
     * Fonction de Hachage
     * 5-Contrôle
->>>>>>> b2e80909c34c71f66696c04abb65e9dae8bb27c8
+
  # Les projets
 
 * dans chaque groupe, il faudra désigner 
@@ -71,11 +71,9 @@
     * évaluation sur 5 (prise en main du projet)
     * soutenance de projet
 * Un QCM au dernier créneau de cours
-<<<<<<< HEAD
+
 * 4 notes au total, pondération: mini-contrôle = 1.5, projet-prise en main=1; projet = 2.5, contrôle = 3
-=======
-* Rectification : 4 notes au total, pondération: mini-contrôle = 2, projet-prise en main=1; soutenance projet = 3, contrôle = 3
->>>>>>> b2e80909c34c71f66696c04abb65e9dae8bb27c8
+
 * le niveau d'exigence sera plus élevé que celui du cours IN100
 
 
