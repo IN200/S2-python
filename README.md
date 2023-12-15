@@ -7,7 +7,7 @@
 
 ----
 * 6 CM :
-    * 0_Rappel_tableaux (complexité)
+    * 0_Rappel_tableaux (complexité) et GIT 
     * 2_gui (TK)
     * 1_Dictionnaires
     * 3_FichiersTexte
