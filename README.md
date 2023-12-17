@@ -2,7 +2,20 @@
 
 # Le planning prévisionnel 
 
- A venir...
+* Semaine du 12 février :  pas de TD, cours 1 (rappel tableau +git)
+* Semaine du 19 février : Vacances 
+* Semaine du 26 février : TD1 (td et répartition des projets) + cours 2 (IHM)
+* Semaine du 4 mars : TD2 (IHM), cours 3 (dict)
+* Semaine du 11 mars : TD3 (dict), cours 4 (file, prog. modulaire)
+* Semaine 18 mars : TD4 (Projet + évaluation projet), cours 5 (fct. hachage)  
+* Semaine du 25 mars : TD5 (file)
+* Semaine 1er avril : TD6 (hachage)
+* Semaine 8 avril : pas de TD, ni de cours. Avancer sur le projet en autonomie 
+* Semaine 15 avril : vacances 
+* Semaine du 22 avril, TD 7 (projet), cours 6 (contrôle)  
+* Semaine 29 avril, TD 8 (soutenance projet) 
+
+
  
 
 ----
@@ -63,16 +76,16 @@
     * utilisation d'outils adaptés: visio, forum, chat... par exemple discord est adapté pour tout ça, et git bien sûr
 * les enseignants sont là pour vous aider, encore faut-il les contacter, et pas (que) au dernier moment
 
-# Evaluation (à titre indicatif)
+# Evaluation (à titre indicatif, ceci peut changer)
 
 ---
 * 3 évaluations en TD:
-    * mini-contrôle (15 minutes max). Evaluation sur 5
-    * évaluation sur 5 (prise en main du projet)
+    * CC1. Evaluation sur 5
+    * CC2. Evaluation sur 5 (prise en main du projet)
     * soutenance de projet
 * Un QCM au dernier créneau de cours
 
-* 4 notes au total, pondération: mini-contrôle = 1.5, projet-prise en main=1; projet = 2.5, contrôle = 3
+* 4 notes au total, pondération: cc1 = 1.5, cc2=1; projet = 2.5, contrôle = 3
 
 * le niveau d'exigence sera plus élevé que celui du cours IN100
 
