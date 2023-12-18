@@ -9,8 +9,8 @@
 * Semaine du 11 mars : TD3 (dict), cours 4 (file, prog. modulaire)
 * Semaine 18 mars : TD4 (Projet + évaluation projet), cours 5 (fct. hachage)  
 * Semaine du 25 mars : TD5 (file)
-* Semaine 1er avril : TD6 (hachage)
-* Semaine 8 avril : pas de TD, ni de cours. Avancer sur le projet en autonomie 
+* Semaine 1er avril : TD6 (hachage), sauf pour les groupes du lundi
+* Semaine 8 avril : pas de TD sauf pour les groupe du lundi, pas de cours. Avancer sur le projet en autonomie 
 * Semaine 15 avril : vacances 
 * Semaine du 22 avril, TD 7 (projet), cours 6 (contrôle)  
 * Semaine 29 avril, TD 8 (soutenance projet) 
