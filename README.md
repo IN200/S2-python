@@ -49,7 +49,7 @@
 
 **Dernières remarques** 
 * le programme que vous fournirez doit impérativement s'exécuter sans erreurs. Ainsi, il convient de le tester et de le corriger progressivement. 
- les parties du programme qui ne fonctionnent pas peuvent être laissées en commentaires pour montrer le travail réalisé sans nuire à son exécution;
+ Les parties du programme qui ne fonctionnent pas peuvent être laissées en commentaires pour montrer le travail réalisé sans nuire à son exécution;
 * vos chargés de TD sont là pour vous aider donc n'hésitez pas à les contacter, et à n'hésitez pas non plus à prendre des initiatives par rapport au sujet;
 * si vous êtes amenés à copier une partie de code d'un autre groupe ou bien d'une source sur internet, cela doit être mentionné explicitement en commentaire de la partie concernée. **Tout plagiat ou référence qui n'est pas citée** sera sanctionné par la note 0 (pour détecter le plagiat nous utilisons des logiciels qui testent la similarité de code; noter que le changement du nom des objets ne dupe pas ces logiciels).
     
