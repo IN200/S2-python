@@ -8,7 +8,7 @@
 * Semaine du 3 mars  : TD2 (IHM), cours 3 (dict) 
 * Semaine du 10 mars : TD3 (dict), cours 4 (file, prog. modulaire) ---> CC1 en TD
 * Semaine du 17 mars : TD4 (file) , cours 5 (fct. hachage), 
-* Semaine 24 mars :   TD5 (Projet + évaluation intermédiaire  du projet), ---> CC2 
+* Semaine 24 mars :   TD5 (Projet + évaluation intermédiaire  du projet, révision), ---> CC2 
 * Semaine 31 mars : TD6 (hachage),
 * Semaine du 7er avril : pas de TD,   Contrôle Amphi. ---> CC3
 * semaine 14 avril  TD 7 (Projet), 
