@@ -1,2 +1,5 @@
 # projet mastermind
 # main
+
+import random as rd
+import tkinter as tk
