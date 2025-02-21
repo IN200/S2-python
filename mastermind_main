@@ -1,9 +1,1 @@
-'''main'''
 
-import random as rd
-import tkinter as tk
-
-start_game = False
-
-# faudra organiser le code d'une certaine façon pour qu'il soit lisible
-# d'abord les librairies, puis les variables, puis les fonctions et puis l'algo
