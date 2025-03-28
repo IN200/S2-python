@@ -45,8 +45,7 @@
 
 * Les règles de programmation sont :
 
-	* le projet doit être écrit dans un seul fichier
-	* il ne faut pas utiliser de classes d'objets
+	* le projet doit être écrit d'une manière structurée et modulaire
 	* il faut utiliser la librairie tkinter pour l'interface graphique
 
 **Dernières remarques** 
